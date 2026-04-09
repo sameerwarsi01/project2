@@ -1,5 +1,3 @@
 # new project
 
-This project was created from local system.
-<br />
-Created by Sameer warsi
+This project was created from local system. Created by Sameer warsi.
